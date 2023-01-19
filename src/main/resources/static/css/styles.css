@@ -1,0 +1,16 @@
+body {
+    background-image: url("../images/pokemon-background.png");
+}
+h1 {
+    text-align: center;
+}
+.img-holder {
+    display: flex;
+    justify-content: center;
+}
+img {
+    height: 200px;
+}
+p {
+    text-align: center;
+}
